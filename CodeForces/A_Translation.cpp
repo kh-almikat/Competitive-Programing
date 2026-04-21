@@ -1,0 +1,18 @@
+/*problem link: https://codeforces.com/problemset/problem/41/A */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() 
+{
+    string s1, s2;
+    cin >> s1;
+    cin >> s2;
+
+    reverse(s1.begin(), s1.end());
+
+    if(s1 == s2)
+        cout << "YES";
+    else
+        cout << "NO";
+}

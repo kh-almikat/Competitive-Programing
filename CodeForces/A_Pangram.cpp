@@ -16,10 +16,7 @@ int main()
     {
         char ch = tolower(s[i]);
 
-        if(ch >= 'a' && ch <= 'z')
-        {
-            st.insert(ch);
-        }
+        st.insert(ch);
     }
 
     if(st.size() == 26)

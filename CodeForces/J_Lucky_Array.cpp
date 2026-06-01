@@ -15,18 +15,18 @@ int main()
         cin >> arr[i];
     }
 
-    int mn = arr[0];
+    int mini = arr[0];
 
     for (int i = 1; i < n; i++)
     {
-        if (arr[i] < mn)
-            mn = arr[i];
+        if (arr[i] < mini)
+            mini = arr[i];
     }
 
     int count = 0;
     for (int i = 0; i < n; i++)
     {
-        if (arr[i] == mn)
+        if (arr[i] == mini)
             count++;
     }
 

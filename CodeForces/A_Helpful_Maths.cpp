@@ -25,7 +25,7 @@ int main()
     {
         if(i > 0)
         cout << "+";
-    cout << v[i];
+        cout << v[i];
     }
 
 }

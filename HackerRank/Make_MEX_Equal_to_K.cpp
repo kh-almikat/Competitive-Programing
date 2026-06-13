@@ -1,5 +1,3 @@
-/*problem link: https://www.hackerrank.com/contests/road-to-problem-solvers-club-a-xpsc-module-01-a-02-a-03/challenges/make-mex-equal-to-k/problem?isFullScreen=true */
-
 #include <bits/stdc++.h>
 using namespace std;
 

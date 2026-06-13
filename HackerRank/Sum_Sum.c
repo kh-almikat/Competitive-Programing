@@ -1,7 +1,3 @@
-/*Problem link
-https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-09/challenges/sum-sum-2
-*/
-
 #include <stdio.h>
 
 int main() 

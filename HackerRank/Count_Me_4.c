@@ -1,5 +1,3 @@
-/*problem link: https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-09/challenges/count-me-4*/
-
 #include <stdio.h>
 
 int main() 

@@ -1,6 +1,3 @@
-/*Problem link
-https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-09/challenges/update-and-print */
-
 #include <stdio.h>
 
 int main() 

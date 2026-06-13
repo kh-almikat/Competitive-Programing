@@ -1,5 +1,3 @@
-/*problem link: https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-09/challenges/count-before-one-1 */
-
 #include <stdio.h>
 
 int count_before_one(int arr[], int n)

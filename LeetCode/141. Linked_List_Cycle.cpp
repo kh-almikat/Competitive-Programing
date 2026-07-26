@@ -1,5 +1,6 @@
 /*problem link: https://leetcode.com/problems/linked-list-cycle/description/ */
 
+
 class Solution {
 public:
     bool hasCycle(ListNode *head) {

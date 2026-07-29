@@ -1,5 +1,6 @@
 /*problem link: https://leetcode.com/problems/design-browser-history/description/ */
 
+
 class Node {
 
 public:

@@ -16,18 +16,11 @@ int main()
         string s;
         cin >> s;
 
-        int first = -1, last = -1;
-        for (int i = 0; i < n; i++)
-        {
-            if(s[i] == 'B')
-            {
-                if(first == -1)
-                    first = i;
+        int first_pos = -1, last_pos = -1;
 
-                last = i;
-            }
-        }
+        first_pos = s.find('B');
+        last_pos = s.rfind('B');
 
-        cout << last - first + 1 << endl;
+        cout<< last_pos - first_pos + 1 << endl;
     }
 }
